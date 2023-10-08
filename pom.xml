@@ -16,7 +16,6 @@
         <spark.verion>3.2.2</spark.verion>
         <spark.scope>provided</spark.scope>
         <jersey.version>3.0.3</jersey.version>
-        <jersey.container.servlet.core.version>2.34</jersey.container.servlet.core.version>
     </properties>
 
     <dependencies>
